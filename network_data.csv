@@ -1,0 +1,6 @@
+duration,protocol,bytes,flag,label
+10,TCP,500,SF,Normal
+2,UDP,120,S0,Attack
+8,TCP,300,SF,Normal
+1,ICMP,50,REJ,Attack
+15,TCP,900,SF,Normal
