@@ -1,0 +1,1 @@
+print("learning AI, CYBERSECURITY,QUANTUM COMPUTING")
