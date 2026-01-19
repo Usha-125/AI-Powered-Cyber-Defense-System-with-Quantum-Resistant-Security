@@ -143,12 +143,6 @@ You will see:
 * Simulates a **real-world security system**
 * Uses **AI** as the decision-making engine
 * Adds **quantum-resilient security**
-* Beginner-friendly yet **research-oriented**
-* Ideal for:
-
-  * College projects
-  * Hackathons
-  * Resume & interviews
 
 ---
 
@@ -157,6 +151,4 @@ You will see:
 **Usha S Gowda**
 Domain: AI | Cybersecurity | Quantum Computing
 
----
 
-This README makes your project look **professional, complete, and publish-ready** (for GitHub, submissions, or demos).
