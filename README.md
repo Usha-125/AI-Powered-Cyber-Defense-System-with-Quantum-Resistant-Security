@@ -1,6 +1,4 @@
-You can copy this directly and save it as **`README.md`** in your project folder.
 
----
 
 # 🔐 AI-Based Intrusion Detection System with Quantum-Safe Alert Encryption
 
